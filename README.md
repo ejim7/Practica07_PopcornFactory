@@ -1,1 +1,3 @@
-# Practita07_PopcornFactory
+# Practica07_PopcornFactory
+
+Cine
